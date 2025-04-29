@@ -3,7 +3,6 @@
 
 Sou o **João Victor**, tenho **15 anos** e criei esse espaço pra mostrar um pouco de mim e o que estou aprendendo.
 
-
 ---
 
 ## 🧑🏽💻 Um pouco sobre mim
@@ -12,7 +11,7 @@ Sou o **João Victor**, tenho **15 anos** e criei esse espaço pra mostrar um po
 - 😴 Amo dormir (quem não, né?)
 - 📱 Curto passar um tempo no **celular** e descobrir coisas novas
 - 💻 Estou começando a aprender **programação**
-
+ 
 ---
 
 ## 🚀 Objetivos
@@ -21,7 +20,7 @@ Sou o **João Victor**, tenho **15 anos** e criei esse espaço pra mostrar um po
 - 🌱 Compartilhar pensamentos e aprendizados
 - 🧠 Estimular minha curiosidade e criatividade
 - 💬 Receber feedback construtivo
-
+ 
 ---
 
       Obrigado por visitar!  

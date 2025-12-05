@@ -23,6 +23,9 @@ Sou o **João Victor**, tenho **15 anos** e criei esse espaço pra mostrar um po
  
 ---
 
+![Pacman Graph](https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/pacman-contribution-graph-dark.svg)
+
+
 
       Obrigado por visitar!  
 

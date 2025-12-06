@@ -1,6 +1,6 @@
 # 👋 E aí! Tudo certo?
 
-Sou o **João Victor**, tenho **15 anos** e criei esse espaço pra mostrar um pouco de mim e o que estou aprendendo.
+Sou o **João Victor**, tenho **15 anos** e criei esse espaço pra guardar meus códigos e mostrar o que estou aprendendo.
 
 ---
 
@@ -14,16 +14,9 @@ Sou o **João Victor**, tenho **15 anos** e criei esse espaço pra mostrar um po
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
----
-
-## 🚀 Objetivos
-
-- 💻 Aprender mais sobre programação e tecnologia  
-- 🌱 Compartilhar pensamentos e aprendizados  
-- 🧠 Estimular minha curiosidade e criatividade  
-- 💬 Receber feedback construtivo  
 
 ---
+
 
 <p align="center">
   <picture>

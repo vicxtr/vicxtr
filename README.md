@@ -1,4 +1,4 @@
-# 👋 E aí! Tudo certo?
+# 👋🏽 E aí! Tudo certo?
 
 Sou o **João Victor**, tenho **15 anos** e criei esse espaço pra guardar meus códigos e mostrar o que estou aprendendo.
 

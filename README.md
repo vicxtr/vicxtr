@@ -1,8 +1,6 @@
-<h1 align="center">👋 Olá! Eu sou o João Victor</h1>
+# 👋 E aí! Tudo certo?
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Sempre+aprendendo+algo+novo+🚀" alt="Typing Animation" />
-</p>
+Sou o **João Victor**, tenho **15 anos** e criei esse espaço pra mostrar um pouco de mim e o que estou aprendendo.
 
 ---
 
@@ -16,10 +14,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+---
+
+## 🚀 Objetivos
+
+- 💻 Aprender mais sobre programação e tecnologia  
+- 🌱 Compartilhar pensamentos e aprendizados  
+- 🧠 Estimular minha curiosidade e criatividade  
+- 💬 Receber feedback construtivo  
 
 ---
 
-## 👾 Meu Pac-Man de contribuições
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vicxtr/vicxtr/output/pacman-contribution-graph-dark.svg">
@@ -30,4 +35,4 @@
 
 ---
 
-<p align="center">✨ Obrigado por visitar! ✨</p>
+<p align="center">Obrigado por visitar!</p>

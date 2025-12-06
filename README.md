@@ -23,13 +23,6 @@ Sou o **João Victor**, tenho **15 anos** e criei esse espaço pra mostrar um po
  
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/vicxtr/vicxtr/-/raw/main/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/vicxtr/vicxtr/-/raw/main/output/pacman-contribution-graph-light.svg">
-  <img alt="pacman contribution graph" src="https://gitlab.com/vicxtr/vicxtr/-/raw/main/output/pacman-contribution-graph-light.svg">
-</picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 
 

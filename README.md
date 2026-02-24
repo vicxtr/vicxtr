@@ -8,20 +8,7 @@ Sou o **João Victor**, tenho **15 anos** e criei esse espaço pra guardar meus 
 [![Instagram](https://pimp-my-readme-next.vercel.app/api/social-media?social=Instagram)](https://instagram.com/vvictorsv)
  [![LinkedIn](https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn)](https://linkedin.com/in/vicxtr)
 
----
-
-
-<p align="center">
-  <img 
-    src="https://img.shields.io/badge/I%20%F0%9F%92%93%20JS-%234169E1%09" 
-    alt="Static Badge"
-    height="50"
-  >
-</p>
-
-
----
-
+--
 
 <p align="center">
   <picture>

@@ -8,7 +8,7 @@ Sou o **João Victor**, tenho **15 anos** e criei esse espaço pra guardar meus 
 [![Instagram](https://pimp-my-readme-next.vercel.app/api/social-media?social=Instagram)](https://instagram.com/vvictorsv)
  [![LinkedIn](https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn)](https://linkedin.com/in/vicxtr)
 
---
+---
 
 <p align="center">
   <picture>

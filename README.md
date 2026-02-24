@@ -6,10 +6,7 @@ Sou o **João Victor**, tenho **15 anos** e criei esse espaço pra guardar meus 
 
 ## 🔗 Conexões
 [![Instagram](https://pimp-my-readme-next.vercel.app/api/social-media?social=Instagram)](https://instagram.com/vvictorsv)
-  <a href="https://linkedin.com/in/vicxtr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+ [![LinkedIn](https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn)](https://linkedin.com/in/vicxtr)
 
 ---
 

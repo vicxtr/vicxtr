@@ -22,3 +22,6 @@ Sou o **João Victor**, tenho **15 anos** e criei esse espaço pra guardar meus 
 ---
 
 [![Obrigado por visitar](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=2757&text=Obrigado%20por%20visitar)](https://pimp-my-readme-next.vercel.app)
+
+
+[![Visitor Counter for vicxtr](https://pimp-my-readme-next.vercel.app/api/visitor-counter?page=vicxtr)}](https://pimp-my-readme-next.vercel.app)

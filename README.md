@@ -11,7 +11,7 @@ Sou o **João Victor**, tenho **15 anos** e criei esse espaço pra guardar meus 
 ---
 
 
-
+![JS Badge](https://img.shields.io/badge/JS-%23191970)
 
 ---
 

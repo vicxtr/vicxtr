@@ -12,7 +12,11 @@ Sou o **João Victor**, tenho **15 anos** e criei esse espaço pra guardar meus 
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/I%20%F0%9F%92%93%20JS-%234169E1%09" alt="Static Badge">
+  <img 
+    src="https://img.shields.io/badge/I%20%F0%9F%92%93%20JS-%234169E1%09" 
+    alt="Static Badge"
+    height="35"
+  >
 </p>
 
 

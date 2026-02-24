@@ -28,4 +28,4 @@ Sou o **João Victor**, tenho **15 anos** e criei esse espaço pra guardar meus 
 
 ---
 
-<p align="center">Obrigado por visitar!</p>
+[![Obrigado por visitar](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=2757&text=Obrigado%20por%20visitar)](https://pimp-my-readme-next.vercel.app)

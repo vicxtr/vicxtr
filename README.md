@@ -20,6 +20,14 @@ Sou o **João Victor**, tenho **16 anos** e criei esse espaço pra guardar meus 
 
 ---
 
+
+</a>
+<a href="https://github.com/dev-vicxtr">
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-vicxtr&theme=noctis_minimus" 
+
+---
+ - 
+
 [![Obrigado por visitar](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=2757&text=Obrigado%20por%20visitar)](https://pimp-my-readme-next.vercel.app)
 
 

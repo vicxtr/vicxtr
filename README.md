@@ -3,7 +3,7 @@
 Sou o **João Victor**, tenho **16 anos** e criei esse espaço pra guardar meus códigos e mostrar o que estou aprendendo.
 ---
 
-<img alt="scarface" src="https://i.pinimg.com/originals/a8/7f/4f/a87f4f342cdd9f3b06b8ff943dbf25b1.gif">  <img alt="" src="https://cdn.artphotolimited.com/images/5b9fc1ecac06024957be8806/1000x1000/al-pacino-dans-le-role-de-tony-montana.jpg" width="400" height="230">
+<img alt="scarface" src="https://i.pinimg.com/originals/a8/7f/4f/a87f4f342cdd9f3b06b8ff943dbf25b1.gif">  <img alt="" src="https://cdn.artphotolimited.com/images/5b9fc1ecac06024957be8806/1000x1000/al-pacino-dans-le-role-de-tony-montana.jpg" width="300" height="230">
  
 
 ---

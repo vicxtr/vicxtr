@@ -3,8 +3,7 @@
 Sou o **João Victor**, tenho **16 anos** e criei esse espaço pra guardar meus códigos e mostrar o que estou aprendendo.
 ---
 
-![Texto alternativo](https://br.pinterest.com/pin/828943875211994999/)
-
+<img alt="scarface" src="https://i.pinimg.com/originals/a8/7f/4f/a87f4f342cdd9f3b06b8ff943dbf25b1.gif">
 
 
 ---
